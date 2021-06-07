@@ -48,7 +48,7 @@ include 'header.php'
 
 					<!-- bloc -->
 					<div>
-						<h3 class="header">Quisque vitae dictum nunc. Donec vitae felis nulla.</h3>
+						<h3 class="header">Servicios de la empresa.</h3>
 						<ul class="bloc">
 							<li>
 								<p>
