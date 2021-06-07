@@ -1,2 +1,0 @@
-# uta-tech
-proyecto
